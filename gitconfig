@@ -1,0 +1,18 @@
+[init]
+    defaultBranch = main
+[user]
+    email = contact@matttrim.com
+    name = Matt Trim
+[pull]
+    rebase = false
+[url "https://github.com/"]
+    insteadOf = gh:
+[url "https://gist.github.com/"]
+    insteadOf = gist:
+[url "https://bitbucket.org/"]
+    insteadOf = bb:
+[color "branch"]
+    current = yellow reverse
+    local = yellow
+    remote = green
+
